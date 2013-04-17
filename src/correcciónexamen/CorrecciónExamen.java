@@ -19,7 +19,7 @@ public class CorrecciónExamen {
         Pintor pintor1=new Pintor(" ", " ");
         Copia copia1=new Copia(" ", " ", " ", pintor1);
         copia1.vyb("enbidia");
-        
+        //hola mundo!
     }
 }
 class Pintor{
